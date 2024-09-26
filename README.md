@@ -1,5 +1,4 @@
-![logo]([https://github.com/harshitgupta0910/Harshit_gupta/blob/main/Harshit%20Gupta.png](https://x.com/harshitgupta100/header_photo))
-
+![logo](https://x.com/harshitgupta100/header_photo)
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
