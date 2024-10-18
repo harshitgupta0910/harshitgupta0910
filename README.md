@@ -19,7 +19,7 @@
 <a href="https://www.hackerrank.com/harshitgupta0910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshitgupta0910" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/harshitgupta0910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="harshitgupta0910" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshitgupta0910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitgupta0910" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@doraemon_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="doraemon_02" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@doraemon_02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="doraemon_02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshitgupta0123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshitgupta0123" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
