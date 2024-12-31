@@ -17,7 +17,9 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-gupta-6bb680259) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshitgupta100)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-gupta-6bb680259) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshitgupta100)
+[![Profile](https://img.shields.io/badge/Linktree-%230077B5.svg?logo=linktree&logoColor=white)](https://linktr.ee/harshit0123)
 
 ## 💻 Tech Stack:
 
