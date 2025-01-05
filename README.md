@@ -1,4 +1,4 @@
-![logo](https://github.com/harshitgupta0910/harshitgupta0910/blob/main/Harshit%20Gupta.png)
+<!--  ![logo](https://github.com/harshitgupta0910/harshitgupta0910/blob/main/Harshit%20Gupta.png)  -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1> 
 <h3 align="start"></h3>
