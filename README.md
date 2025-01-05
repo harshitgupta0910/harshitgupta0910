@@ -46,7 +46,12 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+<!--   <img src="https://holopin.io/@harshitgupta0910" width="100px" height="100px" /> -->
 </div>
+
+## HacktoberFest(24) Badges 🪶:
+
+<a href="https://holopin.me/harshitgupta0910">   <img src="https://holopin.me/harshitgupta0910" alt="@@harshitgupta0910 Holopin board" /> </a>
 
 # 📊 GitHub Stats:
 
