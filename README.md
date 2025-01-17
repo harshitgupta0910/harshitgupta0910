@@ -29,7 +29,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="https://media.licdn.com/dms/image/v2/D5622AQEOmOG79ZLPHA/feedshare-shrink_800/feedshare-shrink_800/0/1713365833966?e=2147483647&v=beta&t=HQn7vlDUinaGpcoAPLJ-U27UezVkKIb42PlDUsVskq0" alt="leet" width="50" style="vertical-align: middle;">](https://www.naukri.com/code360/profile/harshitgupta09)
 &nbsp;&nbsp;&nbsp;
-[<img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="leet" width="50" style="vertical-align: middle;">](https://www.geeksforgeeks.org/user/harshitgupta0123/)
+[<img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="leet" width="50" style="vertical-align: middle;">](https://www.codechef.com/users/harshitgupta99)
 
 
 
