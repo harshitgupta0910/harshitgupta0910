@@ -17,9 +17,22 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-gupta-6bb680259) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/harshitgupta100)
-[![Coding](https://img.shields.io/badge/Linktree-25D366.svg?logo=linktree&logoColor=white)](https://linktr.ee/harshit0123)
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--brand-company-business-brands-pack-logos-icons-2284952.png?f=webp&w=128" alt="link" width="50" style="vertical-align: middle;">](https://linkedin.com/in/harshit-gupta-6bb680259)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-twitter-icon-download-in-svg-png-gif-file-formats--x-communication-mobile-digital-social-media-pack-logos-icons-10813660.png?f=webp&w=128" alt="link" width="50" style="vertical-align: middle;">](https://x.com/harshitgupta100)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-instagram-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-1583142.png?f=webp&w=128" alt="link" width="50" style="vertical-align: middle;">](https://instagram.com/harshitgupta0123)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-vol-4-pack-logos-icons-2944960.png?f=webp&w=128" alt="leet" width="50" style="vertical-align: middle;">](https://leetcode.com/harshitgupta0910/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/?size=200&id=AbQBhN9v62Ob&format=png&color=000000" alt="leet" width="50" style="vertical-align: middle;">](https://www.geeksforgeeks.org/user/harshitgupta0123/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://media.licdn.com/dms/image/v2/D5622AQEOmOG79ZLPHA/feedshare-shrink_800/feedshare-shrink_800/0/1713365833966?e=2147483647&v=beta&t=HQn7vlDUinaGpcoAPLJ-U27UezVkKIb42PlDUsVskq0" alt="leet" width="50" style="vertical-align: middle;">](https://www.naukri.com/code360/profile/harshitgupta09)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="leet" width="50" style="vertical-align: middle;">](https://www.geeksforgeeks.org/user/harshitgupta0123/)
+
+
+
 
 
 ## 💻 Tech Stack:
