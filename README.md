@@ -10,7 +10,7 @@
 <img align="right" alt="procoder" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300" />
 
 - 🔭 I'm a <b> Frontened Developer</b>
-- 🌱 Currently Workiing on <b> React </b>
+- 🌱 Currently Working on <b> Backend </b>
 - 🌱 Pursuing <b>B.Tech 3rd Year</b>
 - 👯 I’m looking to collaborate on Web projects
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/harshitgupta0910/)
@@ -30,7 +30,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img src="https://media.licdn.com/dms/image/v2/D5622AQEOmOG79ZLPHA/feedshare-shrink_800/feedshare-shrink_800/0/1713365833966?e=2147483647&v=beta&t=HQn7vlDUinaGpcoAPLJ-U27UezVkKIb42PlDUsVskq0" alt="leet" width="50" style="vertical-align: middle;">](https://www.naukri.com/code360/profile/harshitgupta09)
 &nbsp;&nbsp;&nbsp;
-<!--[<img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="leet" width="50" style="vertical-align: middle;">](https://www.codechef.com/users/harshitgupta99) 
+<!--[<img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" alt="leet" width="50" style="vertical-align: middle;">](https://www.codechef.com/users/harshitgupta) 
 -->
 
 
@@ -67,6 +67,11 @@
 
 <a href="https://holopin.me/harshitgupta0910">   <img src="https://holopin.me/harshitgupta0910" alt="@@harshitgupta0910 Holopin board" /> </a>
 
+## 🏆 GitHub Trophies
+
+
+![](https://github-profile-trophy.vercel.app/?username=harshitgupta0910&theme=onedark)
+
 # 📊 GitHub Stats:
 
 ![](https://komarev.com/ghpvc/?username=harshitgupta0910&abbreviated=true) <br/>
@@ -79,9 +84,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitgupta0910&theme=blue_green&utcOffset=8)
 <br/>
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=harshitgupta0910&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 
