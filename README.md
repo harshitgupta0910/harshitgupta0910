@@ -80,19 +80,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgupta0910&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta0910&theme=blue-green&hide_border=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitgupta0910&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshitgupta0910&theme=blue_green)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshitgupta0910&theme=blue_green&utcOffset=8)
 <br/>
 
 
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=harshitgupta0910&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <h1 align="center"> Fork 🍴 to create yours :star2: to support. Happy Coding 😉 </h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
