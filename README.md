@@ -25,8 +25,8 @@
 ![](https://komarev.com/ghpvc/?username=harshitgupta0910&label=Profile%20views&color=0e75b6&style=flat) <br/>
 <a href="https://github.com/harshitgupta0910">
 <div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=harshitgupta0910&theme=algolia&hide_border=true&include_all_commits=false&count_private=true" />
-  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta0910&theme=algolia&hide_border=true" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=harshitgupta0910&theme=algolia&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta0910&theme=algolia&hide_border=true" />
 </div>
 
 <br/>
