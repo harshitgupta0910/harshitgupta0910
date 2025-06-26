@@ -8,6 +8,20 @@
   
 </div>
 
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+
+<img align="right" alt="procoder" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300" />
+
+
+- 🔭 I'm a <b> MERN Stack Developer</b>
+- 🌱 Currently Working on <b> Backend </b>
+- 🌱 Pursuing <b>B.Tech Final Year</b>
+- 👯 I’m looking to collaborate on Web projects
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/harshitgupta0910/)
+- 📫 How to reach me **harshitgupta0910@gmail.com**
+
+<br/>
+
 ![](https://komarev.com/ghpvc/?username=harshitgupta0910&label=Profile%20views&color=0e75b6&style=flat) <br/>
 <a href="https://github.com/harshitgupta0910">
 <div align="center">
@@ -28,19 +42,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgupta0910&bg_color=0D1117&color=EC4899&line=8B5CF6&point=3B82F6&area=true&hide_border=true" width="100%" />
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="procoder" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300" />
-
-
-- 🔭 I'm a <b> MERN Developer</b>
-- 🌱 Currently Working on <b> Backend </b>
-- 🌱 Pursuing <b>B.Tech Final Year</b>
-- 👯 I’m looking to collaborate on Web projects
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/harshitgupta0910/)
-- 📫 How to reach me **harshitgupta0910@gmail.com**
-
-<br/>
 
 
 <!-- Technical Skills -->
