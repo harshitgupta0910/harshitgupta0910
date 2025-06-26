@@ -10,7 +10,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-<img align="right" alt="procoder" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="300" />
+<img align="right" alt="procoder" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="350" />
 
 
 - 🔭 I'm a <b> MERN Stack Developer</b>
@@ -25,8 +25,8 @@
 ![](https://komarev.com/ghpvc/?username=harshitgupta0910&label=Profile%20views&color=0e75b6&style=flat) <br/>
 <a href="https://github.com/harshitgupta0910">
 <div align="center">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=harshitgupta0910&theme=algolia&hide_border=true&include_all_commits=false&count_private=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta0910&theme=algolia&hide_border=true" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=harshitgupta0910&theme=algolia&hide_border=true&include_all_commits=false&count_private=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta0910&theme=algolia&hide_border=true" />
 </div>
 
 <br/>
