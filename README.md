@@ -24,16 +24,16 @@
 
 ![](https://komarev.com/ghpvc/?username=harshitgupta0910&label=Profile%20views&color=0e75b6&style=flat) <br/>
 
-<table width="100%">
+<table width="90%">
   <tr>
-    <td align="left" width="60%">
+    <td align="left" width="50%">
       <a href="https://github.com/harshitgupta0910">
-                <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta0910&theme=algolia&hide_border=true" />
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgupta0910&theme=algolia&hide_border=true" />
       </a>
     </td>
-    <td align="right" width="40%">
+    <td align="right" width="70%">
       <a href="https://github.com/harshitgupta0910">
-        <img width="95%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitgupta0910&theme=algolia" />
+        <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshitgupta0910&theme=algolia" />
       </a>
     </td>
   </tr>
